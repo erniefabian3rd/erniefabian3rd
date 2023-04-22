@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and Django**
 
-- 💬 Ask me about **React, design, and Breaking Bad**
+- 💬 Ask me about **React, CSS design, and Breaking Bad**
 
 - 📫 How to reach me **efabianwebdev@gmail.com**
 
